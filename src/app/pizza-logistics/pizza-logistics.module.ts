@@ -23,6 +23,7 @@ import { PizzaLogisticsComponent } from './pizza-logistics/pizza-logistics.compo
     MatButtonModule,
     MatInputModule,
     MatButtonModule,
+    ReactiveFormsModule
   ],
 })
 export class PizzaLogisticsModule { }

@@ -1,5 +1,15 @@
-:host {
-  .mat-card-title {
-    background: orange;
+.logistic-container {
+  border: solid 1px;
+  margin: 10px;
+  &__header {
+    background-color: #ff6600;
+    height: 30px;
+    width: 100%;
+    display: block;
+    border-bottom: solid 1px;
+  }
+  &__section1--row {
+    float: left;
+    margin-right: 10px;
   }
 }
